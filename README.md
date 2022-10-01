@@ -6,8 +6,8 @@
 This project is an implementation of churn prediction that follow coding and engineerng best practices for implementing software.
 * Objective: Implement coding best practices
 * Learning outcome: you will be confident in testing, logging, coding best practices
-What to do?
-* churn_notebook.ipynb contain solutions to indetify the customers who are likely to churn but without following coding best practices. your task is to refactor to follow the coding best practices to develop the following files
+* What to do?
+churn_notebook.ipynb contain solutions to indetify the customers who are likely to churn but without following coding best practices. your task is to refactor to follow the coding best practices to develop the following files
     * churn_library.py: A library of functions to find customers who are likely to churn
     * churn_script_logging_and_tests.py : Contain unit tests for the churn_library.py functions
     * README.md: This file will provide an overview of the project, the instructions to use the code
