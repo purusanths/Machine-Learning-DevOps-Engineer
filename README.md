@@ -1,6 +1,6 @@
 # Predict Customer Churn
 
-- Project **Predict Customer Churn** of ML DevOps Engineer Nanodegree Udacity
+- Project: **Predict Customer Churn** of ML DevOps Engineer Nanodegree Udacity
 
 ## Project Description
 This project is an implementation of churn prediction that follow coding and engineerng best practices for implementing software.
